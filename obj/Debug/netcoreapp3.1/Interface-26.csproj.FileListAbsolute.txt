@@ -1,0 +1,13 @@
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.exe
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.deps.json
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.runtimeconfig.dev.json
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.dll
+C:\Users\gabriel\Documents\GitHub\Interface-26\bin\Debug\netcoreapp3.1\Interface-26.pdb
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.csprojAssemblyReference.cache
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.dll
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.pdb
+C:\Users\gabriel\Documents\GitHub\Interface-26\obj\Debug\netcoreapp3.1\Interface-26.genruntimeconfig.cache
